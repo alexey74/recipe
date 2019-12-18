@@ -4,9 +4,17 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pytest = "*"
+factory_boy = "*"
+faker = "*"
 
 [packages]
 django = "*"
+djangorestframework = "*"
+pyyaml = "*"
+uritemplate = "*"
+django-filter = "*"
+coreapi = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
