@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/alexey74/recipe/workflows/Django%20recipe%20application/badge.svg">
+</p>
+
 # Django Recipe Application
 
 ## Overview
